@@ -1,1 +1,12 @@
-
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: aqua;
+}
+main{
+    background-color: azure;
+}
+section{
+    background-color: rgb(178, 206, 200);
+}
